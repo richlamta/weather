@@ -1,5 +1,5 @@
 {
-  "homepage":"http://richlamta.github.io/weather",
+  "homepage": "http://richlamta.github.io/weather",
   "name": "weather-react",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
